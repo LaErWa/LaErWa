@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @LaErWa
-- 👀 I’m interested in Physics and video games
-- 🌱 I’m currently learning physics
-- 💞️ I’m looking to collaborate on my own project right now
-- 📫 How to reach me ...
+# Hello! I'm Lars, an ape with a keyboard
+
+- I like physics 🤓, video games 👾 and ramen 🍜
+- currently I like to work on personal projects when I have the time
+- and necessary evils of data analysis
+
+<sub>please dont hate on my readme I'm new :)</sub>
 
 <!---
 LaErWa/LaErWa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
