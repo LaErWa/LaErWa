@@ -1,4 +1,4 @@
-# Hello! I'm Lars, an ape with a keyboard
+# Hello!
 
 - I like physics, video games and ramen
 
